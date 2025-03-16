@@ -1,0 +1,35 @@
+.topnav {
+    background-color: #9E9E9E;
+    position: relative;
+}
+
+.topnav #myLinks {
+    display: none;
+}
+
+.topnav a {
+    color: rgb(255 255 255);
+    padding: 15px 18px;
+    text-decoration: none;
+    font-size: x-large;
+    display: block;
+}
+
+.topnav a.icon {
+    background: #607D8B;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 15px 15px;
+}
+
+.topnav a:hover {
+    background-color: #607d8bbd;
+    color: #ffffff;
+}
+
+.active {
+    background-color: #607D8B;
+    color: white;
+}
