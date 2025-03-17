@@ -7,8 +7,7 @@
 4. [Usage Instructions](#usage-instructions)
    - [User Workflow](#user-workflow)
    - [Admin Workflow](#admin-workflow)
-5. [API Documentation](#api-documentation)
-6. [Additional Information](#additional-information)
+5. [Additional Information](#additional-information)
 
 ## Project Description
 This project is a web-based **Short-Term Rental Management System** developed for DS Estate, a company specializing in short-term property rentals. The system allows users to browse, list, and book properties while administrators manage listings and user interactions.
@@ -43,11 +42,6 @@ The installation steps are detailed in the project documentation included in the
 2. **Manage Listings**: Edit or remove inappropriate listings.
 3. **Monitor Bookings**: Ensure fair usage of the system.
 4. **Maintain System Integrity**: Enforce rules and optimize performance.
-
-## API Documentation
-- The backend interacts with the MySQL database via **PHP and JavaScript APIs**.
-- APIs utilize **GET, POST, PUT, DELETE** methods for handling user and listing data.
-- Full API specifications are documented in `api_docs.md`.
 
 ## Additional Information
 For further details on system design and implementation, refer to the project documentation included in the repository.
